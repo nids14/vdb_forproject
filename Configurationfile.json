@@ -1,12 +1,16 @@
 {
-  "databases": {
-    "NVD": {
-      "url": "https://nvd.nist.gov/feeds/json/cve/1.1/nvdcve-1.1-{year}.json.gz",
-      "format": "json"
-    },
-    "CVE": {
-      "url": "https://cve.mitre.org/data/downloads/allitems-{year}.csv",
-      "format": "csv"
+    "databases": {
+        "NVD": {
+            "url": "https://nvd.nist.gov/feeds/json/cve/1.1/nvdcve-1.1-{year}.json.gz",
+            "format": "json"
+        },
+        "CVE": {
+            "url": "https://cve.mitre.org/data/downloads/allitems-{year}.csv",
+            "format": "csv"
+        },
+        "CVE JSON": {
+            "url": "https://github.com/CVEProject/cvelistV5/archive/refs/heads/main.zip",
+            "format": "json"
+        }
     }
-  }
 }
