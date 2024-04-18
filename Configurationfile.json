@@ -1,12 +1,1 @@
-{
-  "databases": {
-    "NVD": {
-      "url": "https://nvd.nist.gov/feeds/json/cve/1.1/nvdcve-1.1-{year}.json.gz",
-      "format": "json"
-    },
-    "CVE": {
-      "url": "https://cve.mitre.org/data/downloads/allitems.csv",
-      "format": "csv"
-    }
-  }
-}
+{"new_database": {"url": "https://example.com/api/data", "format": "json"}}
