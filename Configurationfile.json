@@ -7,6 +7,10 @@
         "CVE": {
             "url": "https://cve.mitre.org/data/downloads/allitems-{year}.csv",
             "format": "csv"
+        },
+        "CVE JSON": {
+            "url": "https://github.com/CVEProject/cvelistV5/archive/refs/heads/main.zip",
+            "format": "json"
         }
     }
 }
