@@ -11,6 +11,10 @@
         "CVE JSON": {
             "url": "https://github.com/CVEProject/cvelistV5/archive/refs/heads/main.zip",
             "format": "json"
+        },
+        "cross site scripting": {
+            "url": "https://vulners.com/api/v3/search/id/?id=OBB:3921669",
+            "format": "json"
         }
     }
 }
