@@ -1,7 +1,7 @@
 {
     "databases": {
         "NVD": {
-            "url": "https://nvd.nist.gov/feeds/json/cve/1.1/nvdcve-1.1-{year}.json.gz",
+            "url": "https://nvd.nist.gov/feeds/json/cve/1.1/nvdcve-1.1-2023.json.gz",
             "format": "json"
         },
         "CVE": {
