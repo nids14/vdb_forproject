@@ -11,6 +11,10 @@
         "cross site scripting": {
             "url": "https://vulners.com/api/v3/search/id/?id=OBB:3921669",
             "format": "json"
+        },
+        "Vulners": {
+            "url": "https://vulners.com/api/v3/search/id/?id={vulnerability_id}",
+            "format": "json"
         }
     }
 }
